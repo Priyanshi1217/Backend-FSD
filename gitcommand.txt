@@ -1,0 +1,14 @@
+git commant
+git status
+git init
+git add file name/.
+git commit -m "msge"
+git remote origin add 
+githubrepo url
+git branch -M main
+git push -u origin main
+cloud to local repo 
+git close url
+other git command
+git log
+git checkout
