@@ -31,3 +31,23 @@ console.log("5");
 test();
 }
 
+// t1=test();
+// console.assertlog("5");
+// create promises that will prirnt username and password usin and if username and password not found then it will call rehect state and print ERROR...
+new Promise((resolve,reject)=>{
+setTimeout(function(){
+let err=true;
+if(!err){
+    resolve(" user:ABC,password:1233");
+}else{
+    reject("ERROR..:daata fail");
+} 
+},2000);
+});
+Promise
+    .then((result) => {
+        console.log(result);
+    })
+    .catch((error) => {
+        console.log(error);
+    });
