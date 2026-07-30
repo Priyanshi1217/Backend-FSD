@@ -6,4 +6,3 @@ event.on("greet",()=>{
 console.log("This is event emitter");
 })
 event.emit("greet");
-
