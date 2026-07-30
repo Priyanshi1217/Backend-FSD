@@ -51,3 +51,15 @@ Promise
     .catch((error) => {
         console.log(error);
     });
+
+    async function test(){
+        console.log("message:2");
+        fetch()
+    }
+    test()
+
+    test().then((res)=>{
+    console.log(res);
+}).catch((error)=>{
+    console.log(error);
+})
