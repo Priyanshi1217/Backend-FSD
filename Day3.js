@@ -57,6 +57,7 @@ Promise
         console.log("message:2");
         fetch()
     }
+<<<<<<< HEAD
     test()
 
     test().then((res)=>{
@@ -64,3 +65,6 @@ Promise
 }).catch((error)=>{
     console.log(error);
 })
+=======
+    test()
+>>>>>>> 441530e (Day4.js)
