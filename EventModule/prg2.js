@@ -15,5 +15,5 @@ emitter.on("mouseover", () => {
     console.log("Mouseover event triggered");
 });
 
-emitter.emit('click',' Satwik');
+emitter.emit('click',' Priyanshi');
 emitter.emit("mouseover");
