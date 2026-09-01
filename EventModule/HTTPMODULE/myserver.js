@@ -5,7 +5,6 @@ const server = http.createServer((req, res) => {
 
     res.write("<h1>Hello CSE 24</h1>");
     res.write("Welcome to my server");
-
     res.end();
 });
 
