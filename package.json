@@ -2,22 +2,22 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "Day1.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [],
+  "homepage": "https://github.com/Priyanshi1217/Backend-FSD#readme",
+  "bugs": {
+    "url": "https://github.com/Priyanshi1217/Backend-FSD/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Priyanshi1217/Backend-FSD.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
+  "author": "",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/Priyanshi1217/Backend-FSD/issues"
+  "main": "Day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/Priyanshi1217/Backend-FSD#readme",
   "dependencies": {
     "express": "^5.2.1"
   },
