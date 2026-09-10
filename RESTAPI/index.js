@@ -12,7 +12,6 @@ let users = [
 app.get('/users', (req, res) => {
   res.json(users);
 });
-
 //post: post requests to create a new user
 app.post('/users', (req, res) => {
   const user={
