@@ -8,6 +8,7 @@
     console.log("cse 24 fsd");
     return a+b;
 }
+
 console.log(sayHello(3,2));
 // arrow function
 // ()=>{}
