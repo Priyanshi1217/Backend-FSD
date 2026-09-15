@@ -1,0 +1,22 @@
+{
+  "name": "fsd_semiii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Ques2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanshi1217/FSD_SemIII-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Priyanshi1217/FSD_SemIII-/issues"
+  },
+  "homepage": "https://github.com/Priyanshi1217/FSD_SemIII-#readme"
+}

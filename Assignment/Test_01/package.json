@@ -1,0 +1,15 @@
+{
+  "name": "test_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "25_Aug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Ques1.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
