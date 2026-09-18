@@ -8,7 +8,6 @@ let users = [
 ];
 
 //get: get requests to fetch all users 
-
 app.get('/users', (req, res) => {
   res.json(users);
 });
