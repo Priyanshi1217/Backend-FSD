@@ -15,6 +15,13 @@ export const App = () => {
       <input type="text" placeholder="Search notes here" onClick={(e)=>{
       setSearch(e.target.value);
       }}/>
+      {
+      documents.filter((doc)=>(
+        doc.name.toLowerCase().includes(search.toLowerCase)).map((doc)=>{
+          
+        }
+      ))
+      }
     </div>
   )
 }
